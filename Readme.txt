@@ -1,0 +1,3 @@
+- Khi chạy file scrap_data.py sẽ được file matches.csv, dữ liệu của file này chưa được sạch nên sau đó chạy file clean_data.ipynb sẽ được file matches_clean.csv với dữ liệu đã được làm sạch và sẽ làm việc trên file matches_clean.csv này.
+- file predict sẽ thực hiện phân tích và đưa ra nhận xét từ những dữ liệu có được.
+- file giao_dien.py sẽ đọc dữ liệu từ matches_clean.csv để đưa ra dự đoán từ những dữ liệu phân tích được.
